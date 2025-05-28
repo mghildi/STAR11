@@ -1,0 +1,58 @@
+[
+  {
+    "Player": "Rebecca Webster",
+    "Team": "Isle of Man Women",
+    "DOB": "30/10/91",
+    "Zodiac": "Scorpio",
+    "PredictionScale": 12
+  },
+  {
+    "Player": "Joanne Hicks",
+    "Team": "Isle of Man Women",
+    "DOB": "09/03/75",
+    "Zodiac": "Pisces",
+    "PredictionScale": 7
+  },
+  {
+    "Player": "Georgina Ford",
+    "Team": "Isle of Man Women",
+    "DOB": "09/03/10",
+    "Zodiac": "Pisces",
+    "PredictionScale": 7
+  },
+  {
+    "Player": "Amelia Castillo",
+    "Team": "Spain Women",
+    "DOB": "21/10/05",
+    "Zodiac": "Libra",
+    "PredictionScale": 10
+  },
+  {
+    "Player": "Alexis Hartley",
+    "Team": "Spain Women",
+    "DOB": "28/06/85",
+    "Zodiac": "Cancer",
+    "PredictionScale": 8
+  },
+  {
+    "Player": "Andrea Davidson-Soler",
+    "Team": "Spain Women",
+    "DOB": "14/06/06",
+    "Zodiac": "Gemini",
+    "PredictionScale": 9
+  },
+  {
+    "Player": "Hillman-Bermejo",
+    "Team": "Spain Women",
+    "DOB": "07/09/06",
+    "Zodiac": "Virgo",
+    "PredictionScale": 11
+  },
+  {
+    "Player": "Amy Brown-Carrera",
+    "Team": "Spain Women",
+    "DOB": "13/03/06",
+    "Zodiac": "Pisces",
+    "PredictionScale": 7
+  }
+]
