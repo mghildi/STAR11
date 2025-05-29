@@ -1,0 +1,212 @@
+[
+  {
+    "Player": "Stevie Eskinazi",
+    "Team": "Middlesex",
+    "DOB": "28/03/94",
+    "Zodiac": "Aries",
+    "PredictionScale": 5
+  },
+  {
+    "Player": "Jack Davies",
+    "Team": "Middlesex",
+    "DOB": "30/03/00",
+    "Zodiac": "Aries",
+    "PredictionScale": 5
+  },
+  {
+    "Player": "Leus du Plooy",
+    "Team": "Middlesex",
+    "DOB": "12/01/95",
+    "Zodiac": "Capricorn",
+    "PredictionScale": 12
+  },
+  {
+    "Player": "Ryan Higgins",
+    "Team": "Middlesex",
+    "DOB": "06/01/95",
+    "Zodiac": "Capricorn",
+    "PredictionScale": 12
+  },
+  {
+    "Player": "Max Holden",
+    "Team": "Middlesex",
+    "DOB": "18/12/97",
+    "Zodiac": "Sagittarius",
+    "PredictionScale": 7
+  },
+  {
+    "Player": "Cracknell",
+    "Team": "Middlesex",
+    "DOB": "16/03/00",
+    "Zodiac": "Pisces",
+    "PredictionScale": 4
+  },
+  {
+    "Player": "Hollman",
+    "Team": "Middlesex",
+    "DOB": "16/09/00",
+    "Zodiac": "Virgo",
+    "PredictionScale": 10
+  },
+  {
+    "Player": "S Robson",
+    "Team": "Middlesex",
+    "DOB": "01/07/89",
+    "Zodiac": "Cancer",
+    "PredictionScale": 3
+  },
+  {
+    "Player": "Roland-Jones",
+    "Team": "Middlesex",
+    "DOB": "29/01/88",
+    "Zodiac": "Aquarius",
+    "PredictionScale": 6
+  },
+  {
+    "Player": "Zafar Gohar",
+    "Team": "Middlesex",
+    "DOB": "01/02/95",
+    "Zodiac": "Aquarius",
+    "PredictionScale": 6
+  },
+  {
+    "Player": "Tom Helm",
+    "Team": "Middlesex",
+    "DOB": "07/05/94",
+    "Zodiac": "Taurus",
+    "PredictionScale": 8
+  },
+  {
+    "Player": "Dane Paterson",
+    "Team": "Middlesex",
+    "DOB": "04/04/89",
+    "Zodiac": "Aries",
+    "PredictionScale": 5
+  },
+  {
+    "Player": "Ben Geddes",
+    "Team": "Middlesex",
+    "DOB": "31/07/01",
+    "Zodiac": "Leo",
+    "PredictionScale": 11
+  },
+  {
+    "Player": "Sebastian Morgan",
+    "Team": "Middlesex",
+    "DOB": "30/08/07",
+    "Zodiac": "Virgo",
+    "PredictionScale": 10
+  },
+  {
+    "Player": "Noah Cornwell",
+    "Team": "Middlesex",
+    "DOB": "10/09/04",
+    "Zodiac": "Virgo",
+    "PredictionScale": 10
+  },
+  {
+    "Player": "J Simpson",
+    "Team": "Sussex",
+    "DOB": "13/07/88",
+    "Zodiac": "Cancer",
+    "PredictionScale": 3
+  },
+  {
+    "Player": "Tymal Mills",
+    "Team": "Sussex",
+    "DOB": "12/08/92",
+    "Zodiac": "Leo",
+    "PredictionScale": 11
+  },
+  {
+    "Player": "Oliver Carter",
+    "Team": "Sussex",
+    "DOB": "02/11/01",
+    "Zodiac": "Scorpio",
+    "PredictionScale": 9
+  },
+  {
+    "Player": "Daniel Hughes",
+    "Team": "Sussex",
+    "DOB": "16/02/89",
+    "Zodiac": "Aquarius",
+    "PredictionScale": 6
+  },
+  {
+    "Player": "Alsop",
+    "Team": "Sussex",
+    "DOB": "26/11/95",
+    "Zodiac": "Sagittarius",
+    "PredictionScale": 7
+  },
+  {
+    "Player": "James Coles",
+    "Team": "Sussex",
+    "DOB": "02/04/04",
+    "Zodiac": "Aries",
+    "PredictionScale": 5
+  },
+  {
+    "Player": "FJ Hudson-Prentice",
+    "Team": "Sussex",
+    "DOB": "12/01/96",
+    "Zodiac": "Capricorn",
+    "PredictionScale": 12
+  },
+  {
+    "Player": "Danny Lamb",
+    "Team": "Sussex",
+    "DOB": "07/09/95",
+    "Zodiac": "Virgo",
+    "PredictionScale": 10
+  },
+  {
+    "Player": "McAndrew",
+    "Team": "Sussex",
+    "DOB": "14/07/93",
+    "Zodiac": "Cancer",
+    "PredictionScale": 3
+  },
+  {
+    "Player": "Tom Clark",
+    "Team": "Sussex",
+    "DOB": "27/02/01",
+    "Zodiac": "Pisces",
+    "PredictionScale": 4
+  },
+  {
+    "Player": "Brad Currie",
+    "Team": "Sussex",
+    "DOB": "08/11/98",
+    "Zodiac": "Scorpio",
+    "PredictionScale": 9
+  },
+  {
+    "Player": "Tom Rogers",
+    "Team": "Sussex",
+    "DOB": "03/03/94",
+    "Zodiac": "Pisces",
+    "PredictionScale": 4
+  },
+  {
+    "Player": "Henry Crocombe",
+    "Team": "Sussex",
+    "DOB": "20/09/01",
+    "Zodiac": "Virgo",
+    "PredictionScale": 10
+  },
+  {
+    "Player": "D Ibrahim",
+    "Team": "Sussex",
+    "DOB": "09/08/04",
+    "Zodiac": "Leo",
+    "PredictionScale": 11
+  },
+  {
+    "Player": "Harrison Ward",
+    "Team": "Sussex",
+    "DOB": "25/10/99",
+    "Zodiac": "Scorpio",
+    "PredictionScale": 9
+  }
+]
