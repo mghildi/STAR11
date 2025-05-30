@@ -1,0 +1,331 @@
+[
+  {
+    "Player": "Shubman Gill",
+    "Team": "Gujarat Titans",
+    "DOB": "08/09/99",
+    "Zodiac": "Virgo",
+    "PredictionScale": 10
+  },
+  {
+    "Player": "Kusal Mendis",
+    "Team": "Gujarat Titans",
+    "DOB": "02/02/95",
+    "Zodiac": "Aquarius",
+    "PredictionScale": 4
+  },
+  {
+    "Player": "Sai Sudharsan",
+    "Team": "Gujarat Titans",
+    "DOB": "15/10/01",
+    "Zodiac": "Libra",
+    "PredictionScale": 7
+  },
+  {
+    "Player": "Sherfane Rutherford",
+    "Team": "Gujarat Titans",
+    "DOB": "15/08/98",
+    "Zodiac": "Leo",
+    "PredictionScale": 8
+  },
+  {
+    "Player": "Shahrukh Khan",
+    "Team": "Gujarat Titans",
+    "DOB": "27/05/95",
+    "Zodiac": "Gemini",
+    "PredictionScale": 6
+  },
+  {
+    "Player": "Rahul Tewatia",
+    "Team": "Gujarat Titans",
+    "DOB": "20/05/93",
+    "Zodiac": "Taurus",
+    "PredictionScale": 9
+  },
+  {
+    "Player": "Rashid Khan",
+    "Team": "Gujarat Titans",
+    "DOB": "20/09/98",
+    "Zodiac": "Virgo",
+    "PredictionScale": 10
+  },
+  {
+    "Player": "Arshad Khan",
+    "Team": "Gujarat Titans",
+    "DOB": "20/12/97",
+    "Zodiac": "Sagittarius",
+    "PredictionScale": 5
+  },
+  {
+    "Player": "Gerald Coetzee",
+    "Team": "Gujarat Titans",
+    "DOB": "02/10/00",
+    "Zodiac": "Libra",
+    "PredictionScale": 7
+  },
+  {
+    "Player": "Sai Kishore",
+    "Team": "Gujarat Titans",
+    "DOB": "06/11/96",
+    "Zodiac": "Scorpio",
+    "PredictionScale": 12
+  },
+  {
+    "Player": "Siraj",
+    "Team": "Gujarat Titans",
+    "DOB": "13/03/94",
+    "Zodiac": "Pisces",
+    "PredictionScale": 3
+  },
+  {
+    "Player": "Prasidh",
+    "Team": "Gujarat Titans",
+    "DOB": "19/02/96",
+    "Zodiac": "Pisces",
+    "PredictionScale": 3
+  },
+  {
+    "Player": "Anuj Rawat",
+    "Team": "Gujarat Titans",
+    "DOB": "17/10/99",
+    "Zodiac": "Libra",
+    "PredictionScale": 7
+  },
+  {
+    "Player": "Lomror",
+    "Team": "Gujarat Titans",
+    "DOB": "16/11/99",
+    "Zodiac": "Scorpio",
+    "PredictionScale": 12
+  },
+  {
+    "Player": "Ishant",
+    "Team": "Gujarat Titans",
+    "DOB": "02/09/88",
+    "Zodiac": "Virgo",
+    "PredictionScale": 10
+  },
+  {
+    "Player": "Washington Sundar",
+    "Team": "Gujarat Titans",
+    "DOB": "05/10/99",
+    "Zodiac": "Libra",
+    "PredictionScale": 7
+  },
+  {
+    "Player": "Jayant Yadav",
+    "Team": "Gujarat Titans",
+    "DOB": "22/01/90",
+    "Zodiac": "Aquarius",
+    "PredictionScale": 4
+  },
+  {
+    "Player": "Shanaka",
+    "Team": "Gujarat Titans",
+    "DOB": "09/09/91",
+    "Zodiac": "Virgo",
+    "PredictionScale": 10
+  },
+  {
+    "Player": "Karim Janat",
+    "Team": "Gujarat Titans",
+    "DOB": "11/08/98",
+    "Zodiac": "Leo",
+    "PredictionScale": 8
+  },
+  {
+    "Player": "Kulwant Khejroliya",
+    "Team": "Gujarat Titans",
+    "DOB": "13/03/92",
+    "Zodiac": "Pisces",
+    "PredictionScale": 3
+  },
+  {
+    "Player": "Manav Suthar",
+    "Team": "Gujarat Titans",
+    "DOB": "03/08/02",
+    "Zodiac": "Leo",
+    "PredictionScale": 8
+  },
+  {
+    "Player": "Kushagra",
+    "Team": "Gujarat Titans",
+    "DOB": "23/10/04",
+    "Zodiac": "Scorpio",
+    "PredictionScale": 12
+  },
+  {
+    "Player": "Gurnoor Brar",
+    "Team": "Gujarat Titans",
+    "DOB": "25/05/00",
+    "Zodiac": "Gemini",
+    "PredictionScale": 6
+  },
+  {
+    "Player": "Nishant Sindhu",
+    "Team": "Gujarat Titans",
+    "DOB": "09/04/04",
+    "Zodiac": "Aries",
+    "PredictionScale": 1
+  },
+  {
+    "Player": "Bairstow",
+    "Team": "Mumbai Indians",
+    "DOB": "26/09/89",
+    "Zodiac": "Libra",
+    "PredictionScale": 7
+  },
+  {
+    "Player": "Hardik Pandya",
+    "Team": "Mumbai Indians",
+    "DOB": "11/10/93",
+    "Zodiac": "Libra",
+    "PredictionScale": 7
+  },
+  {
+    "Player": "Rohit",
+    "Team": "Mumbai Indians",
+    "DOB": "30/04/87",
+    "Zodiac": "Taurus",
+    "PredictionScale": 9
+  },
+  {
+    "Player": "Suryakumar Yadav",
+    "Team": "Mumbai Indians",
+    "DOB": "14/09/90",
+    "Zodiac": "Virgo",
+    "PredictionScale": 10
+  },
+  {
+    "Player": "Asalanka",
+    "Team": "Mumbai Indians",
+    "DOB": "29/06/97",
+    "Zodiac": "Cancer",
+    "PredictionScale": 2
+  },
+  {
+    "Player": "Tilak Varma",
+    "Team": "Mumbai Indians",
+    "DOB": "08/11/02",
+    "Zodiac": "Scorpio",
+    "PredictionScale": 12
+  },
+  {
+    "Player": "Naman Dhir",
+    "Team": "Mumbai Indians",
+    "DOB": "31/12/99",
+    "Zodiac": "Capricorn",
+    "PredictionScale": 11
+  },
+  {
+    "Player": "Santner",
+    "Team": "Mumbai Indians",
+    "DOB": "05/02/92",
+    "Zodiac": "Aquarius",
+    "PredictionScale": 4
+  },
+  {
+    "Player": "D Chahar",
+    "Team": "Mumbai Indians",
+    "DOB": "07/08/92",
+    "Zodiac": "Leo",
+    "PredictionScale": 8
+  },
+  {
+    "Player": "Boult",
+    "Team": "Mumbai Indians",
+    "DOB": "22/07/89",
+    "Zodiac": "Cancer",
+    "PredictionScale": 2
+  },
+  {
+    "Player": "Bumrah",
+    "Team": "Mumbai Indians",
+    "DOB": "06/12/93",
+    "Zodiac": "Sagittarius",
+    "PredictionScale": 5
+  },
+  {
+    "Player": "Ashwani Kumar",
+    "Team": "Mumbai Indians",
+    "DOB": "29/08/01",
+    "Zodiac": "Virgo",
+    "PredictionScale": 10
+  },
+  {
+    "Player": "Karn Sharma",
+    "Team": "Mumbai Indians",
+    "DOB": "23/10/87",
+    "Zodiac": "Scorpio",
+    "PredictionScale": 12
+  },
+  {
+    "Player": "Raj Bawa",
+    "Team": "Mumbai Indians",
+    "DOB": "12/11/02",
+    "Zodiac": "Scorpio",
+    "PredictionScale": 12
+  },
+  {
+    "Player": "Satyanarayana Raju",
+    "Team": "Mumbai Indians",
+    "DOB": "10/07/99",
+    "Zodiac": "Cancer",
+    "PredictionScale": 2
+  },
+  {
+    "Player": "Bevon Jacobs",
+    "Team": "Mumbai Indians",
+    "DOB": "06/05/02",
+    "Zodiac": "Taurus",
+    "PredictionScale": 9
+  },
+  {
+    "Player": "Robin Minz",
+    "Team": "Mumbai Indians",
+    "DOB": "13/09/02",
+    "Zodiac": "Virgo",
+    "PredictionScale": 10
+  },
+  {
+    "Player": "Arjun Tendulkar",
+    "Team": "Mumbai Indians",
+    "DOB": "24/09/99",
+    "Zodiac": "Libra",
+    "PredictionScale": 7
+  },
+  {
+    "Player": "Raghu Sharma",
+    "Team": "Mumbai Indians",
+    "DOB": "11/03/93",
+    "Zodiac": "Pisces",
+    "PredictionScale": 3
+  },
+  {
+    "Player": "Krishnan Shrijith",
+    "Team": "Mumbai Indians",
+    "DOB": "12/08/96",
+    "Zodiac": "Leo",
+    "PredictionScale": 8
+  },
+  {
+    "Player": "Mujeeb",
+    "Team": "Mumbai Indians",
+    "DOB": "28/03/01",
+    "Zodiac": "Aries",
+    "PredictionScale": 1
+  },
+  {
+    "Player": "Richard Gleeson",
+    "Team": "Mumbai Indians",
+    "DOB": "02/12/87",
+    "Zodiac": "Sagittarius",
+    "PredictionScale": 5
+  },
+  {
+    "Player": "R Topley",
+    "Team": "Mumbai Indians",
+    "DOB": "21/02/94",
+    "Zodiac": "Pisces",
+    "PredictionScale": 3
+  }
+]
