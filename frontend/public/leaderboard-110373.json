@@ -1,0 +1,205 @@
+[
+  {
+    "Player": "Alex Davies",
+    "Team": "Warwickshire",
+    "DOB": "23/08/94",
+    "Zodiac": "Virgo",
+    "PredictionScale": 10
+  },
+  {
+    "Player": "Latham",
+    "Team": "Warwickshire",
+    "DOB": "02/04/92",
+    "Zodiac": "Aries",
+    "PredictionScale": 2
+  },
+  {
+    "Player": "Robert Yates",
+    "Team": "Warwickshire",
+    "DOB": "19/09/99",
+    "Zodiac": "Virgo",
+    "PredictionScale": 10
+  },
+  {
+    "Player": "Sam Hain",
+    "Team": "Warwickshire",
+    "DOB": "16/07/95",
+    "Zodiac": "Cancer",
+    "PredictionScale": 3
+  },
+  {
+    "Player": "Ed Barnard",
+    "Team": "Warwickshire",
+    "DOB": "20/11/95",
+    "Zodiac": "Scorpio",
+    "PredictionScale": 12
+  },
+  {
+    "Player": "George Garton",
+    "Team": "Warwickshire",
+    "DOB": "15/04/97",
+    "Zodiac": "Aries",
+    "PredictionScale": 2
+  },
+  {
+    "Player": "Kai Smith",
+    "Team": "Warwickshire",
+    "DOB": "28/11/04",
+    "Zodiac": "Sagittarius",
+    "PredictionScale": 6
+  },
+  {
+    "Player": "D Briggs",
+    "Team": "Warwickshire",
+    "DOB": "30/04/91",
+    "Zodiac": "Taurus",
+    "PredictionScale": 9
+  },
+  {
+    "Player": "Craig Miles",
+    "Team": "Warwickshire",
+    "DOB": "20/07/94",
+    "Zodiac": "Cancer",
+    "PredictionScale": 3
+  },
+  {
+    "Player": "J Lintott",
+    "Team": "Warwickshire",
+    "DOB": "22/04/93",
+    "Zodiac": "Taurus",
+    "PredictionScale": 9
+  },
+  {
+    "Player": "Adam Sylvester",
+    "Team": "Warwickshire",
+    "DOB": "18/05/00",
+    "Zodiac": "Taurus",
+    "PredictionScale": 9
+  },
+  {
+    "Player": "Zen Malik",
+    "Team": "Warwickshire",
+    "DOB": "09/04/98",
+    "Zodiac": "Aries",
+    "PredictionScale": 2
+  },
+  {
+    "Player": "Hamza Shaikh",
+    "Team": "Warwickshire",
+    "DOB": "29/05/06",
+    "Zodiac": "Gemini",
+    "PredictionScale": 7
+  },
+  {
+    "Player": "Ethan Bamber",
+    "Team": "Warwickshire",
+    "DOB": "17/12/98",
+    "Zodiac": "Sagittarius",
+    "PredictionScale": 6
+  },
+  {
+    "Player": "Tazeem Ali",
+    "Team": "Warwickshire",
+    "DOB": "13/06/06",
+    "Zodiac": "Gemini",
+    "PredictionScale": 7
+  },
+  {
+    "Player": "Alex Lees",
+    "Team": "Durham",
+    "DOB": "14/04/93",
+    "Zodiac": "Aries",
+    "PredictionScale": 2
+  },
+  {
+    "Player": "O Robinson",
+    "Team": "Durham",
+    "DOB": "01/12/98",
+    "Zodiac": "Sagittarius",
+    "PredictionScale": 6
+  },
+  {
+    "Player": "Graham Clark",
+    "Team": "Durham",
+    "DOB": "19/03/93",
+    "Zodiac": "Pisces",
+    "PredictionScale": 5
+  },
+  {
+    "Player": "Ackermann",
+    "Team": "Durham",
+    "DOB": "04/04/91",
+    "Zodiac": "Aries",
+    "PredictionScale": 2
+  },
+  {
+    "Player": "Bas de Leede",
+    "Team": "Durham",
+    "DOB": "15/11/99",
+    "Zodiac": "Scorpio",
+    "PredictionScale": 12
+  },
+  {
+    "Player": "Neesham",
+    "Team": "Durham",
+    "DOB": "17/09/90",
+    "Zodiac": "Virgo",
+    "PredictionScale": 10
+  },
+  {
+    "Player": "Nathan Sowter",
+    "Team": "Durham",
+    "DOB": "12/10/92",
+    "Zodiac": "Libra",
+    "PredictionScale": 8
+  },
+  {
+    "Player": "Zakary Foulkes",
+    "Team": "Durham",
+    "DOB": "05/06/02",
+    "Zodiac": "Gemini",
+    "PredictionScale": 7
+  },
+  {
+    "Player": "Ben Raine",
+    "Team": "Durham",
+    "DOB": "14/09/91",
+    "Zodiac": "Virgo",
+    "PredictionScale": 10
+  },
+  {
+    "Player": "Callum Parkinson",
+    "Team": "Durham",
+    "DOB": "24/10/96",
+    "Zodiac": "Scorpio",
+    "PredictionScale": 12
+  },
+  {
+    "Player": "Aldridge",
+    "Team": "Durham",
+    "DOB": "24/12/00",
+    "Zodiac": "Capricorn",
+    "PredictionScale": 11
+  },
+  {
+    "Player": "James Minto",
+    "Team": "Durham",
+    "DOB": "26/11/07",
+    "Zodiac": "Sagittarius",
+    "PredictionScale": 6
+  },
+  {
+    "Player": "W Rhodes",
+    "Team": "Durham",
+    "DOB": "02/03/95",
+    "Zodiac": "Pisces",
+    "PredictionScale": 5
+  },
+  {
+    "Player": "George Drissell",
+    "Team": "Durham",
+    "DOB": "20/01/99",
+    "Zodiac": "Aquarius",
+    "PredictionScale": 4
+  }
+]
